@@ -11,3 +11,5 @@ this is larger code chunk
 ```
 
 **this is bold text?**
+
+![image](/cse15l-lab-reports/dog.jpg)
